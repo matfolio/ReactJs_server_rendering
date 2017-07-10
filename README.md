@@ -19,7 +19,10 @@ webpack config file is in a watch mode so need to make
 ----webpack --watch.
 
 Then on the other command prompt:
-just run ---npm start (more on this, check out the package.json)
+just run:
+```
+npm start (more on this... check out the package.json)
+```
 
 
 
